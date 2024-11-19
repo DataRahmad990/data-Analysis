@@ -1,0 +1,25 @@
+
+##Bike Sales Analysis
+An exploratory data analysis (EDA) of bike sales data from 2021-2022. 
+This project examines sales trends, profitability, and customer behavior to provide actionable insights.
+
+## Overview
+This project analyzes two years of bike sales data to identify:
+- Seasonal and hourly sales trends.
+- The most profitable times and customer types.
+- Key insights for business optimization.
+
+The dataset includes sales revenue, rider types, and temporal data (hours, days, months, seasons).
+
+## Key Insights
+1. **Yearly Sales Growth**: 
+   - 2021: $495M (1.2M riders).
+   - 2022: $1.02B (2M riders), marking a significant growth.
+2. **Peak Sales Periods**: 
+   - Most sales occur between 10:00 AM - 3:00 PM, especially on Wednesdays and Fridays.
+3. **Seasonal Trends**:
+   - Summer is the most profitable season, generating $488M in gross revenue.
+4. **Customer Types**:
+   - Regular riders (81%) drive most of the sales.
+
+For a detailed report, check the [Summary Report](results/summary_report.pdf).
